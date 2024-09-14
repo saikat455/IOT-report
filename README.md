@@ -1,0 +1,5 @@
+The report titled "IoT Based Traffic Hazard Monitoring and Reduction System" presents a solution to manage urban traffic hazards using IoT technologies. This system incorporates sensors (e.g., MQ7 for carbon monoxide, MQ135 for gas, DHT11 for humidity/temperature, and a sound sensor) to monitor real-time data related to traffic hazards, including accidents, road blockages, and weather conditions.
+
+The system processes data through an Arduino Uno and uses an ESP32 NodeMCU to transmit the data to a cloud server for centralized monitoring. Alerts are generated when thresholds are exceeded, such as high gas concentration or excessive noise, enabling real-time response and improved traffic safety. The system is tested in a laboratory environment, validating the accuracy and responsiveness of the sensors and overall system.
+
+This IoT-based system aims to reduce traffic risks, enhance road safety, and promote environmental sustainability through real-time monitoring and adaptive hazard reduction.
